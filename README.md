@@ -25,7 +25,7 @@ Passionate about building interactive, user-friendly web applications and consta
 ## 📌 Featured Projects
 Here are some projects I'm most proud of:  
 
-🔹 **[Joke Battle](https://github.com/hafizhabautista/Dad-Jokes-Battle)**  
+🔹 **[Joke Battle](https://github.com/hafizhabautista/joke-battle)**  
 _A fun web app where users vote between jokes fetched from an API, tracking a “Champion” joke._  
 *JavaScript • API Integration* 
 
@@ -36,10 +36,6 @@ _My personal portfolio showcasing my projects and skills._
 
 ---
 
-## 📈 GitHub Stats
-![Hafizha's GitHub stats](https://github-readme-stats.vercel.app/api?username=bautistahafizha&show_icons=true&theme=radical)
-
----
 
 ## 🤝 Connect With Me
 - 🌐 [Portfolio Website](https://hafizhabautista.github.io/MyWebPortfolio/)  
